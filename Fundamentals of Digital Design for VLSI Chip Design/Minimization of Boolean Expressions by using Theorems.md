@@ -19,3 +19,19 @@ using Boolean algebra->To simplify and analyze digital circuits
 ![image](https://github.com/user-attachments/assets/2ab03c2f-b038-4e98-ad14-63a4c5b1b098)
 
 ![image](https://github.com/user-attachments/assets/6b61acfe-aba5-4d4e-9cd6-41adc1363350)
+
+purpose of the Identity Law -> To simplify expressions with one
+
+![image](https://github.com/user-attachments/assets/9469b2c6-eb4a-47c2-867f-2d5ba4ad3d10)
+
+![image](https://github.com/user-attachments/assets/adc8c31a-a255-43e4-8ff5-34e6b5afe360)
+
+significance of the duality principle in proving theorems in Boolean algebra -> The duality principle simplifies the process of proving theorems in Boolean algebra by automatically validating the dual of a proven theorem.
+
+![image](https://github.com/user-attachments/assets/74b99dd9-a413-4bb3-b274-bb81f39e044f)
+
+![image](https://github.com/user-attachments/assets/d4913989-b021-41cf-8eb3-ca9f4ac3aa2f)
+
+![image](https://github.com/user-attachments/assets/09d04b40-7858-42d7-9d95-cea61385da1d)
+
+![image](https://github.com/user-attachments/assets/8c65a211-a50a-4dec-b7dc-6c1dee4b8106)
