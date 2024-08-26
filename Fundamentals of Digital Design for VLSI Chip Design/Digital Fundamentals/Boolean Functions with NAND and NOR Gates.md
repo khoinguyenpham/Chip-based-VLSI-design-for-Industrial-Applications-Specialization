@@ -27,3 +27,4 @@ NAND, NOR
 ![image](https://github.com/user-attachments/assets/051727a7-ed8b-461c-96d9-2302831a0d2e)
 
 ![image](https://github.com/user-attachments/assets/d6da6109-2b4f-4ca1-a6bf-291712abefb2)
+
