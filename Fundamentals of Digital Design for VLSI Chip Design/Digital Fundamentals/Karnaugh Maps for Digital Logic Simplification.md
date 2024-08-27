@@ -66,6 +66,8 @@
 
 ![image](https://github.com/user-attachments/assets/cc28e353-8fa5-44c0-8ebc-cde106d8ae14)
 
+# K-Map Simplification for POS Expressions
+
 ![image](https://github.com/user-attachments/assets/6f4f8bbe-e99a-4d79-b6a1-cf0b1d1d2233)
 
 ![image](https://github.com/user-attachments/assets/02445477-d3ba-4336-a967-752b862ca242)
@@ -75,9 +77,6 @@
 ![image](https://github.com/user-attachments/assets/8dd69853-e37f-41ba-93b1-8a190657b624)
 
 ![image](https://github.com/user-attachments/assets/388e1e8c-5ef7-4a56-8ddb-3936153a1eff)
-
-
-# K-Map Simplification for POS Expressions
 
 ![image](https://github.com/user-attachments/assets/881c6f9b-9dbb-4c90-80d8-a2982f166561)
 
