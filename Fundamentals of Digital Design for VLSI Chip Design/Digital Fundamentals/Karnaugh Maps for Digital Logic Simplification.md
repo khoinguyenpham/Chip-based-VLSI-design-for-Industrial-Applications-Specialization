@@ -66,6 +66,17 @@
 
 ![image](https://github.com/user-attachments/assets/cc28e353-8fa5-44c0-8ebc-cde106d8ae14)
 
+![image](https://github.com/user-attachments/assets/6f4f8bbe-e99a-4d79-b6a1-cf0b1d1d2233)
+
+![image](https://github.com/user-attachments/assets/02445477-d3ba-4336-a967-752b862ca242)
+
+![image](https://github.com/user-attachments/assets/1e26e8c8-bb52-4d5e-b6d7-fcaf9f24a7fd)
+
+![image](https://github.com/user-attachments/assets/8dd69853-e37f-41ba-93b1-8a190657b624)
+
+![image](https://github.com/user-attachments/assets/388e1e8c-5ef7-4a56-8ddb-3936153a1eff)
+
+
 # K-Map Simplification for POS Expressions
 
 ![image](https://github.com/user-attachments/assets/881c6f9b-9dbb-4c90-80d8-a2982f166561)
@@ -73,4 +84,17 @@
 ![image](https://github.com/user-attachments/assets/052a93c2-8a9e-4891-bcc9-260029ef0cb3)
 
 ![image](https://github.com/user-attachments/assets/6ca352f1-5028-44f2-b9e8-2d8f6356e2c3)
+
+POS (Product of Sums) is the complement of SOP (Sum of Products).
+
+![image](https://github.com/user-attachments/assets/22ecfd9b-a299-40d0-aa35-5238bbd4b031)
+
+![image](https://github.com/user-attachments/assets/c452e26a-c53a-40e1-973c-0be1e675a76c)
+
+![image](https://github.com/user-attachments/assets/4df1b321-6d8a-42df-ab38-06b3dba0eda7)
+
+![image](https://github.com/user-attachments/assets/220a0965-8773-4eb5-9814-8d0e8043a289)
+
+![image](https://github.com/user-attachments/assets/4a3fd4bf-c7fe-4036-92e2-1ea9886f0faf)
+
 
