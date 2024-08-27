@@ -96,4 +96,42 @@ POS (Product of Sums) is the complement of SOP (Sum of Products).
 
 ![image](https://github.com/user-attachments/assets/4a3fd4bf-c7fe-4036-92e2-1ea9886f0faf)
 
+K-map is generally effective for a moderate number of variables, but it becomes less practical for very few variables.
 
+# Quine-McCluskey Method
+
+![image](https://github.com/user-attachments/assets/3868ffb9-7d69-49dc-9426-cb667e5f22c4)
+
+![image](https://github.com/user-attachments/assets/314e50e5-13db-4b7b-a7ae-b67c67224b84)
+
+![image](https://github.com/user-attachments/assets/5dc97747-4e9a-4a84-a0f7-96b47f95a045)
+
+![image](https://github.com/user-attachments/assets/35091730-45d9-4cb3-be61-e1f32287408b)
+
+![image](https://github.com/user-attachments/assets/f21613e1-6ece-4beb-80d9-a92b23f2b24f)
+
+One of the advantages of the Quine-McCluskey Algorithm is that it can handle more than 6 variables.
+
+![image](https://github.com/user-attachments/assets/eaadabc6-58f8-4f52-ada6-b2a8e0a8bfb4)
+
+![image](https://github.com/user-attachments/assets/73b21bf0-361f-422c-aee4-801744ed796b)
+
+![image](https://github.com/user-attachments/assets/2f1ffdc0-11fa-4861-ad76-f8fd0cb7923b)
+
+![image](https://github.com/user-attachments/assets/c6cb410f-b903-476f-b9d7-4e3bb7fa7e0a)
+
+The 'x' (cross) in the prime implicant table indicates the prime implicants that cover the corresponding minterms. Essential prime implicants are identified by examining rows with a single 'x', covering minterms.
+
+![image](https://github.com/user-attachments/assets/83906c24-943a-49a4-8cb8-27780401c4a2)
+
+![image](https://github.com/user-attachments/assets/694c3863-8e3b-47b5-bf5d-d0bd7f344617)
+
+![image](https://github.com/user-attachments/assets/02df3394-dd79-4e64-bdee-c4bb4e423755)
+
+![image](https://github.com/user-attachments/assets/7363a54c-1963-4558-87b2-bf28df36b401)
+
+![image](https://github.com/user-attachments/assets/e17fb38d-0993-4eef-9939-9c595101d3dd)
+
+Identifying essential prime implicants helps cover as many minterms as possible, contributing to a more efficient representation of the Boolean function.
+
+![image](https://github.com/user-attachments/assets/291a1978-a246-42c8-ab5d-11ec06dd80c7)
