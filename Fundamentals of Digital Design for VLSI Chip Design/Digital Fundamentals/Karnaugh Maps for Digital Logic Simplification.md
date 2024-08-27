@@ -66,3 +66,11 @@
 
 ![image](https://github.com/user-attachments/assets/cc28e353-8fa5-44c0-8ebc-cde106d8ae14)
 
+# K-Map Simplification for POS Expressions
+
+![image](https://github.com/user-attachments/assets/881c6f9b-9dbb-4c90-80d8-a2982f166561)
+
+![image](https://github.com/user-attachments/assets/052a93c2-8a9e-4891-bcc9-260029ef0cb3)
+
+![image](https://github.com/user-attachments/assets/6ca352f1-5028-44f2-b9e8-2d8f6356e2c3)
+
