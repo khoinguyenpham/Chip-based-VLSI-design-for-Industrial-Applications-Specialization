@@ -53,3 +53,14 @@
 ![image](https://github.com/user-attachments/assets/47b0060e-a9c1-4af9-9c36-108c16d77e6c)
 
 # Multibit Adder
+
+![image](https://github.com/user-attachments/assets/5fde8f75-629a-4365-be1e-d8302d76f4ea)
+
+The parallel binary adder is a combinational circuit that consists of full adders in parallel arrangement, so that there can be a full adder for every column for the addition, when more than one bit number needs to be added.
+
+![image](https://github.com/user-attachments/assets/22c14b87-0866-457b-a55f-c6fad78cf7f3)
+![image](https://github.com/user-attachments/assets/1d386d15-25b8-40d3-a39a-377040e567fe)
+
+![image](https://github.com/user-attachments/assets/9cf64e48-9626-4153-ae7e-529880c40ba0)
+
+![image](https://github.com/user-attachments/assets/de5a3018-228f-4025-b323-f51228b1def1)
